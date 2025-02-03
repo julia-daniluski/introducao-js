@@ -7,3 +7,5 @@ CONST e VAR- pode usar essa mesma váriavel em várias partes, mas deixa o códi
 adicionar innertext porque é um texto e document.getElementById consegue recuperar um elemento da página apenas pelo ID. 
 
 NÃO dá para juntar o texto com a variavel sem usar o +.
+
+escrever variaveis com letras minusculas, não colocar letra maiúiscula porque pode mudar todo o código.

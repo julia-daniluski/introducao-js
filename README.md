@@ -1,6 +1,6 @@
 ## INTRODUÇÃO JAVA SCRIPT:
  
- No primeiro exemplo nós testamos apenas a extensão Code Runner.
+ No exemplo 1 nós testamos apenas a extensão Code Runner.
 <hr>
 No exemplo chrome, testamos como colocar o script.js em um link/página e inline:
 
