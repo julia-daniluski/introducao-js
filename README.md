@@ -18,3 +18,5 @@ No exemplo chrome, testamos como colocar o script.js em um link/página e inline
 No exemplo váriavel nós testamos as variaveis do js:
 
 ```let nome= ("Daniluski") console.log (nome)```
+
+Também testamos os alertas que aparecem quando a página se inicia. Exemplo
