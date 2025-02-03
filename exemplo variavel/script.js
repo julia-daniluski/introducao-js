@@ -1,3 +1,4 @@
 let nome= ("Daniluski")
 console.log (nome)
-alert("Testando váriavel") 
+alert(nome)
+document.getElementById("resultado").
