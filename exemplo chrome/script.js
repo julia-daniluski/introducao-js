@@ -5,4 +5,5 @@ alert("Meu site está linkado com o html") // aparece um alerta no site.
 /* comentários
 de
 várias
-línguas.*/
+línguas.
+Se fizer o comentário errado o codigo não roda porque a tipagem é fraca.*/

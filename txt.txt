@@ -1,0 +1,5 @@
+Extensões: Eslint, Prettier, Code Runner.
+
+VÁRIAVEIS:
+LET- maior parte das váriaveis porque é mais leve.
+CONST e VAR- pode usar essa mesma váriavel em várias partes, mas deixa o código mais pesado.
