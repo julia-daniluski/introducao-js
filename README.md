@@ -25,3 +25,8 @@ Também testamos os alertas que aparecem quando a página se inicia. Exemplo:
 
 ```alert(testando variavel)```
 
+<hr>
+
+No exemplo prompt, aparece uma caixinha para o usuário digitar o que o server pede:
+
+```prompt ("Digite o seu nome")```
