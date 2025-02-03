@@ -30,3 +30,5 @@ Também testamos os alertas que aparecem quando a página se inicia. Exemplo:
 No exemplo prompt, aparece uma caixinha para o usuário digitar o que o server pede:
 
 ```prompt ("Digite o seu nome")```
+
+![Captura de tela 2025-02-03 112055](https://github.com/user-attachments/assets/e95cfbab-d423-4813-8e67-ae826d149636)
