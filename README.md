@@ -19,4 +19,7 @@ No exemplo váriavel nós testamos as variaveis do js:
 
 ```let nome= ("Daniluski") console.log (nome)```
 
-Também testamos os alertas que aparecem quando a página se inicia. Exemplo
+Também testamos os alertas que aparecem quando a página se inicia. Exemplo:
+
+![Captura de tela 2025-02-03 105059](https://github.com/user-attachments/assets/9d7baddf-38bf-49ed-8bec-df1b3fee5842)
+
