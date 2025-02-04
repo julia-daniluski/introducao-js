@@ -42,3 +42,23 @@ E em seguida outra tag no script:
 ```document.getElementById ("resposta").innerText = "Olá " + nome + "."```
 
 (A tag do documento com o elemento id linka com o html na tag onde o id está).
+
+<hr>
+
+No exemplo soma, aprendemos a fazer soma pelo Java Script. É necessário usarmos váriaveis para que os números somados sejam apresentados como informações que devem ser absorvidas:
+
+```let n1 = parseInt (prompt("Digite o número 1"));```
+```let n2 = parseInt (prompt("Digite o número 2"));```
+```document.getElementById ("calculo").innerText =  igual + " = " + soma + ".";```
+
+<hr>
+
+O exemplo function foi dividido em 3 exemplos, o primeiro estando diretamente na página  e os outros dois em pastas dentro da pasta. Inicialmente, colocamos o function para usar um prompt e mandar um alerta. Já que era um exemplo, fiz uma pequena brincadeira com o personagem "Stu Marcher" da franquia de filmes slassher "Pânico".
+<br>
+No ex2, usamos Arrow Function, que nada mais é que a versão atualizada do function. Fizemos um botão interativo que aparece uma mensagem quando aperta. 
+No JS foi a partir do código:
+
+```const clicou = () = { window.alert("Você clicou no botão 🤨")}```
+Já no HTML:
+
+```<h1 id="">✨Interagindo com o botão✨</h1> <button onclick="clicou()">Clica em mim 🫦</button>```
