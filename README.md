@@ -68,3 +68,7 @@ No JS foi a partir do código:
 Já no HTML:
 
 ```<h1 id="">✨Interagindo com o botão✨</h1> <button onclick="clicou()">Clica em mim 🫦</button>```
+<Hr>
+No ex-f3, fizemos a conta feita no java script só se realizar após apertar o input. Nesse exercício em específico eu decidi fazer uma coisa mais bonita e adicionei um css cm as cores rosa e verde em homenagem a Wicked:
+
+
