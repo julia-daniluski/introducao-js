@@ -1,0 +1,43 @@
+/* Estilização geral da página */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: rgb(2, 255, 2);
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilização do título */
+h1 {
+    color: rgb(255, 0, 136);
+    margin-top: 20px;
+    font-size: 50px;
+}
+
+/* Estilização dos campos de entrada */
+input {
+    width: 250px;
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+/* Estilização do botão */
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: #ff00a6;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+/* Efeito hover no botão */
+button:hover {
+    background-color: #ff88d2;
+}
+
