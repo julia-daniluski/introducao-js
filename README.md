@@ -86,4 +86,9 @@ Resolvi mudar o css para algo mais bonito, puxado para o preto e branco, a funci
 
 ![Captura de tela 2025-02-04 113215](https://github.com/user-attachments/assets/afb89806-ed9c-4066-aef9-b552af17bb02)
 
+E ele é responsivo:
+
+![Captura de tela 2025-02-04 115615](https://github.com/user-attachments/assets/29a349cf-cdb5-4846-ad93-f18ce26e3164)
+
+
 
