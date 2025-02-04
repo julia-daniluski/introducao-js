@@ -77,3 +77,9 @@ https://github.com/user-attachments/assets/6875f896-022b-4fa9-b40f-67a4a0d4df0a
 
 <hr>
 A calculadora foi o desafio final. Era para fazer uma coisa simples, apenas fazendo com que a pessoa escolha 2 números e em seguida selecionasse qual seria a operação que iria usar e o resultado apareceria no prompt. O css utilizado foi simples.
+
+
+
+https://github.com/user-attachments/assets/c548f68c-ddc3-4f2b-a389-de674b2ed1a8
+
+
