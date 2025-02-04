@@ -56,6 +56,12 @@ No exemplo soma, aprendemos a fazer soma pelo Java Script. É necessário usarmo
 O exemplo function foi dividido em 3 exemplos, o primeiro estando diretamente na página  e os outros dois em pastas dentro da pasta. Inicialmente, colocamos o function para usar um prompt e mandar um alerta. Já que era um exemplo, fiz uma pequena brincadeira com o personagem "Stu Marcher" da franquia de filmes slassher "Pânico".
 <br>
 No ex2, usamos Arrow Function, que nada mais é que a versão atualizada do function. Fizemos um botão interativo que aparece uma mensagem quando aperta. 
+
+
+https://github.com/user-attachments/assets/e95c4a3b-da9d-495a-9c5f-a80009491abb
+
+
+
 No JS foi a partir do código:
 
 ```const clicou = () = { window.alert("Você clicou no botão 🤨")}```
