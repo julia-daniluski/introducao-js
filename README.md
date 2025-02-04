@@ -82,4 +82,8 @@ A calculadora foi o desafio final. Era para fazer uma coisa simples, apenas faze
 
 https://github.com/user-attachments/assets/c548f68c-ddc3-4f2b-a389-de674b2ed1a8
 
+Resolvi mudar o css para algo mais básico, a funcionalidade continua a mesma, mas agora ele ta assim:
+
+![Captura de tela 2025-02-04 113215](https://github.com/user-attachments/assets/afb89806-ed9c-4066-aef9-b552af17bb02)
+
 
