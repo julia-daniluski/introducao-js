@@ -12,3 +12,4 @@ escrever variaveis com letras minusculas, não colocar letra maiúiscula porque 
 
 Função é um bloco que executa um código quando é chamado.
 
+Toda vez que formos pegar algo fo html temos que começar com "document".
