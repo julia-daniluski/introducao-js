@@ -72,3 +72,7 @@ Já no HTML:
 No ex-f3, fizemos a conta feita no java script só se realizar após apertar o input. Nesse exercício em específico eu decidi fazer uma coisa mais bonita e adicionei um css cm as cores rosa e verde em homenagem a Wicked:
 
 
+
+https://github.com/user-attachments/assets/6875f896-022b-4fa9-b40f-67a4a0d4df0a
+
+
