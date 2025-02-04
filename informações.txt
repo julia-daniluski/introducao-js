@@ -9,3 +9,6 @@ adicionar innertext porque é um texto e document.getElementById consegue recupe
 NÃO dá para juntar o texto com a variavel sem usar o +.
 
 escrever variaveis com letras minusculas, não colocar letra maiúiscula porque pode mudar todo o código.
+
+Função é um bloco que executa um código quando é chamado.
+
