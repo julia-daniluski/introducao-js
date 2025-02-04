@@ -1,19 +1,25 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-br"> <!-- Define o idioma da página como português do Brasil -->
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>somar quando apertar</title>
+    <meta charset="UTF-8"> <!-- Define a codificação de caracteres para suportar acentos e caracteres especiais -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Ajusta a visualização para dispositivos móveis -->
+    <title>Somar quando apertar</title> <!-- Define o título da página exibido na aba do navegador -->
 </head>
 <body>
-    <h1>Soma de números</h1>
+    <h1>Soma de números</h1> <!-- Título principal da página -->
+
+    <!-- Campo de entrada para o primeiro número -->
     <input type="number" name="n2" id="n1" placeholder="Insira o primeiro número" required>
-    <br>
-    <br>
+    <br><br> <!-- Quebras de linha para espaçamento -->
+
+    <!-- Campo de entrada para o segundo número -->
     <input type="number" name="n1" id="n2" placeholder="Insira o segundo número" required>
-    <br>
-    <br>
+    <br><br> <!-- Quebras de linha para espaçamento -->
+
+    <!-- Botão que chama a função "soma()" ao ser clicado -->
     <button onclick="soma()">Soma</button>
+
+    <!-- Importação do arquivo JavaScript externo -->
     <script src="script.js"></script>
 </body>
 </html>
