@@ -1,0 +1,60 @@
+/* Estilização geral da página */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #FFEBE3 ;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilização do título */
+h1 {
+    color: #E43137;
+    margin-top: 20px;
+    font-size: 50px;
+}
+
+/* Estilização dos campos de entrada */
+input {
+    width: 250px;
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+input::-webkit-input-placeholder {
+    color: #E43137;
+}
+
+input::-moz-placeholder {
+    color: #E43137;
+}
+
+input:-ms-input-placeholder {
+    color: #E43137;
+}
+
+input:-moz-placeholder {
+    color: #E43137;
+}
+
+
+/* Estilização do botão */
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: #FA7888;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+/* Efeito hover no botão */
+button:hover {
+    background-color:#FACCD4;
+}
+
