@@ -2,7 +2,7 @@
 body {
     font-family: Arial, sans-serif;
     text-align: center;
-    background-color: #D9ADAD;
+    background-image: url("fundo.jpg");
     margin: 0;
     padding: 0;
     display: flex;
@@ -13,7 +13,7 @@ body {
 
 /* Estilização do título */
 h1 {
-    color: #E43137;
+    color: black;
     margin-top: 20px;
     font-size: 35px;
 }
@@ -30,7 +30,7 @@ input {
 }
 
 input::placeholder {
-    color: #E43137;
+    color: #000000;
 }
 
 /* Estilização do botão */
@@ -38,7 +38,7 @@ button {
     padding: 10px 20px;
     font-size: 16px;
     color: white;
-    background-color: #E43137 ;
+    background-color: #000000 ;
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -48,11 +48,11 @@ button {
 
 /* Efeito hover no botão */
 button:hover {
-    background-color:#FA7888;
+    background-color:#980012;
 }
 
 .container {
-    background: #FFEBE3;
+    background: #ffffff;
     padding: 30px;
     border-radius: 10px;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
