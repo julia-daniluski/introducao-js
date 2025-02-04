@@ -86,7 +86,10 @@ Resolvi mudar o css para algo mais bonito, puxado para o preto e branco, a funci
 
 ![Captura de tela 2025-02-04 113215](https://github.com/user-attachments/assets/afb89806-ed9c-4066-aef9-b552af17bb02)
 
-E ele é responsivo:
+Ele é responsivo e tem um favicon:
+
+![Captura de tela 2025-02-04 115736](https://github.com/user-attachments/assets/5310e7e6-fb78-44ca-a2e3-ba30d3b078ba)
+
 
 ![Captura de tela 2025-02-04 115615](https://github.com/user-attachments/assets/29a349cf-cdb5-4846-ad93-f18ce26e3164)
 
