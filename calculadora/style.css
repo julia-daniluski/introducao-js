@@ -8,19 +8,21 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh; /* Garante que o container fique centralizado verticalmente */
+    min-height: 100vh; /* Ajuste para telas menores */
+    flex-direction: column;
 }
 
 /* Estilização do título */
 h1 {
     color: black;
     margin-top: 20px;
-    font-size: 35px;
+    font-size: 2rem;
 }
 
 /* Estilização dos campos de entrada */
 input {
-    width: 250px;
+    width: 100%; /* Ajusta ao container */
+    max-width: 250px;
     padding: 10px;
     margin: 5px;
     border: 1px solid #ccc;
@@ -38,17 +40,16 @@ button {
     padding: 10px 20px;
     font-size: 16px;
     color: white;
-    background-color: #000000 ;
+    background-color: #000000;
     border: none;
     border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.3s;
-    cursor:pointer;
 }
 
 /* Efeito hover no botão */
 button:hover {
-    background-color:#980012;
+    background-color: #980012;
 }
 
 .container {
@@ -57,5 +58,21 @@ button:hover {
     border-radius: 10px;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
     text-align: center;
-    width: 320px;
+    width: 90%; /* Melhor ajuste para telas menores */
+    max-width: 320px;
+    box-sizing: border-box;
+}
+
+/* Media queries para responsividade */
+@media (max-width: 480px) {
+    h1 {
+        font-size: 1.5rem;
+    }
+    .container {
+        padding: 20px;
+    }
+    button {
+        font-size: 14px;
+        padding: 8px 16px;
+    }
 }
