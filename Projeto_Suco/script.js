@@ -1,4 +1,3 @@
-
-
-console.log(proximo)
-document.getElementByid ("proximo").innerText = ""
+const myFunction =()=>{
+    window.alert("você clicou")
+}
