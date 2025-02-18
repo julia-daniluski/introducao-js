@@ -26,6 +26,7 @@ next.onclick=()=>{
     lista[ativo].classList.add('ativo');
 }
 
+
 prev.onclick =()=>{
     let desativar = document.querySelector ('.ativo')
     desativar.classList.remove('ativo')
